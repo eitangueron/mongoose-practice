@@ -215,3 +215,4 @@ Person.find().and([
 			console.log("\nPerson", p,"has weight", person.weight," and kids:\n",person.kids);
 		}		
 	})
+
